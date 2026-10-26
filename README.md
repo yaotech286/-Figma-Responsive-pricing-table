@@ -1,6 +1,6 @@
 # -Figma-Responsive-pricing-table
 ## Project Overview
-A responsive pricing table UI design created in Figma as part of my Product Design learning journey at Belad Tech Academy.
+A responsive pricing table UI design created in Figma as part of my Pynexia journey.
 
 ## Design Tool
 Figma
